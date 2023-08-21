@@ -9,7 +9,7 @@ pertaining to the following subjects.
 
 ### Claims Denial Data
 
-- [Pennsylvania](./data/claims_denials/raw/pa)
+- [Pennsylvania](./data/claims_denials/raw/pa/readme.md)
 
 
     | Record Source       | Date of Receipt         | Plan Years |
