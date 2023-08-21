@@ -1,5 +1,3 @@
-# Persius Public Records Portal
-
 This site hosts public records obtained by Persius.
 
 ## Records
