@@ -2,19 +2,17 @@
 
 This site hosts public records obtained by Persius.
 
+## Records
 
-## Records Requested
+This repository currently contains public records
+pertaining to the following subjects.
 
-[Here](./test_page.pdf) is a link to a pdf in this repo.
+### Claims Denial Data
+
+- [Pennsylvania](./data/claims_denials/raw/pa)
 
 
-
-### 
-
-|       head       | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+    | Record Source       | Date of Receipt         | Plan Years |
+    |:-------------|:------------------|:------|
+    | PA Department of Insurance           | 6/12/2023 | 2020, 2021  |
 
