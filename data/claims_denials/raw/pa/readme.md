@@ -10,7 +10,7 @@ The records in this subdirectory were provided by the Open Records
 team in response to a [Right to Know Law (RTKL)](https://www.insurance.pa.gov/right-to-know-law/Pages/default.aspx) response submitted to the Pennsylvania Department of Insurance. This public records request
 was granted only in part; the request included numerous pieces of data that were unable to be provided.
 
-# Raw Data Included
+# Raw Data
 
 The data in the [data/claims_denials/raw/pa](https://github.com/TPAFS/public-records/tree/main/data/claims_denials/raw/pa) subdirectory consists of pdfs that describe the following claims information, for plan years 2020 and 2021 only:
 
@@ -67,7 +67,7 @@ You can also browse individual raw pdfs directly:
 - [UPMC Health Options (2020)](./2020/UPMC%20Health%20Options%20109ef343-ffdc-4345-bd67-0e2fca6714cd_DATA_TRANSPARENCY_COVERAGE.pdf), [UPMC Health Options (2021)](./2021/UPMC%20Health%20Options%20397c178b-497b-4770-b580-a2844721e3a8_DATA_TRANSPARENCY_COVERAGE.pdf)
 
 
-_Notes:_ 
+## Notes
 
 - Requested claims data from 2022 was not provided as claims from that plan year were still pending
 and under review at the time of the request. As such, they were exempt from disclosure and not
@@ -85,10 +85,7 @@ of marketplace plans and _may_ also correspond to non-marketplace plans. The pla
 on the other hand, only corresponds to marketplace plans.
 
 
-# Parsed Data
-
-
-# Disclaimer
+## Disclaimer
 
 The records in _this_ subdirectory are [_public records_](https://en.wikipedia.org/wiki/Public_records).
 To our knowledge, the records have not been modified or altered in any way, and 
@@ -98,6 +95,9 @@ formulations of this data that we may standardize or adapt from these raw pdfs t
 make them more user-friendly for consumption by automated processes is in no way vetted
 or validated by that department, or guaranteed to be consistent with the original data;
 any errors resulting from such processes are our own, and not those of the 
+
+
+# Parsed Data
 
 
 # Acknowledgements

@@ -12,7 +12,7 @@ pertaining to the following subjects.
 - [Pennsylvania](./data/claims_denials/raw/pa/readme.md)
 
 
-    | Record Source       | Date of Receipt         | Plan Years |
-    |:-------------|:------------------|:------|
-    | PA Department of Insurance           | 6/12/2023 | 2020, 2021  |
+    | Record Source       | Date of Receipt         | Plan Years | Format |
+    |:-------------|:------------------|:------| :----- |
+    | PA Department of Insurance           | 6/12/2023 | 2020, 2021  | Portable Document Format (PDF) |
 
