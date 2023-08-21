@@ -35,8 +35,8 @@ This entire site is open source, and as such you can inspect and download any su
 
 Alternatively, we provide a few quick links below:
 
-<button><a href="./raw/2020/2020.zip" download>Download 2020 Data Zip</a></button>
-<button><a href="./raw/2021/2021.zip" download>Download 2021 Data Zip</a></button>
+<button><a href="./raw/2020/2020.zip" download>Download 2020 Raw Data Zip</a></button>
+<button><a href="./raw/2021/2021.zip" download>Download 2021 Raw Data Zip</a></button>
 
 You can also browse individual raw pdfs directly:
 
@@ -100,6 +100,24 @@ any errors resulting from such processes are our own, and not those of the
 
 # Parsed Data
 
+The raw data provided in the public records comes from tables in PDF files (one for each issuer).
+The data is inconvenient to work with in this format, for various reasons, and the matter
+is made even less convenient because the tables appear to be split across pdf pages. In order to analyze
+this data, we've scraped it from the pdf files and housed it in two centralized csvs: one for issuer-level
+information, and one for plan-level information. These parsed data are _not_ public records,
+and were not provided by any official entity: trust them at your own risk, or validate for yourself that they
+were parsed correctly.
+
+## Downloads 
+
+You can download the parsed data below:
+
+<button><a href="./processed/issuers.csv" download>Download Issuer Level Parsed Data</a></button>
+<button><a href="./processed/plans.csv" download>Download Plan Level Parsed Data</a></button>
+
+In the future, we will house the script used to parse the data from these pdfs in this repo.
+For now, we just provide the parsed data, since the schema for the output standard that we want to support
+long term is still being developed.
 
 # Acknowledgements
 

@@ -1,0 +1,27 @@
+insurer_name,hios_id,data_plan_year,current_plan_year,sadp_only,claims_received,claims_denied,internal_appeals,internal_appeal_overturns,external_appeals,external_appeal_overturns
+Highmark Benefits Group,79962,2021,2023,False,557538,77400,17,8,0,0
+UPMC Health Options,16322,2021,2023,False,2554380,118505,43,5,4,0
+Highmark Benefits Group,79962,2020,2022,False,418262,52899,96,66,1,1
+UPMC Health Options,16322,2020,2022,False,2622862,119745,72,10,7,1
+CAAC,45127,2021,2023,False,1265956,208994,542,362,13,3
+Highmark Coverage Advant.,79279,2020,2022,False,156311,22005,79,52,0,0
+QCC,31609,2021,2023,False,1253882,225327,126,74,7,0
+CAAC,45127,2020,2022,False,1568685,135229,623,440,23,8
+PA H&W,86199,2020,2022,False,34524,12337,5,5,0,0
+Cigna,13401,2020,2022,False,,,,,,
+KHPE,33871,2020,2022,False,3227270,629352,304,148,22,5
+Cigna,13401,2021,2023,False,,,,,,
+QCC,31609,2020,2022,False,972846,162892,106,55,8,2
+KHPE,33871,2021,2023,False,3998558,793557,241,137,14,6
+Oscar,98517,2020,2022,False,1,1,1,1,1,1
+Highmark,33709,2021,2023,False,1030350,125799,159,71,2,0
+Geisinger Quality Options,75729,2021,2023,False,65123,12135,10,7,0,0
+UPMC Health Coverage,62560,2021,2023,False,66415,5451,1,0,0,0
+Geisinger Quality Options,75729,2020,2022,False,89148,14875,17,9,1,0
+Geisinger Health Plan,22444,2020,2022,False,426026,58683,53,22,0,0
+Highmark,33709,2020,2022,False,667284,80989,160,98,0,0
+Oscar,98517,2021,2023,False,44467,1445,1,0,0,0
+UPMC Health Coverage,62560,2020,2022,False,0,0,1,0,0,0
+Highmark Coverage Advantage,79279,2021,2023,False,303584,43992,8,5,0,0
+PA H&W,86199,2021,2023,False,32461,14443,26,18,0,0
+Geisinger Health Plan,22444,2021,2023,False,290763,48366,60,36,0,0
