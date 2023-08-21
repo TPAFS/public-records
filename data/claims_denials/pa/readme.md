@@ -66,6 +66,7 @@ You can also browse individual raw pdfs directly:
 
 - [UPMC Health Options (2020)](./raw/2020/UPMC%20Health%20Options%20109ef343-ffdc-4345-bd67-0e2fca6714cd_DATA_TRANSPARENCY_COVERAGE.pdf), [UPMC Health Options (2021)](./raw/2021/UPMC%20Health%20Options%20397c178b-497b-4770-b580-a2844721e3a8_DATA_TRANSPARENCY_COVERAGE.pdf)
 
+Or grab the data from this Zenodo mirror (TODO).
 
 ## Notes
 
