@@ -5,7 +5,7 @@
 
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap" as="style" type="text/css" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#8f5e77">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -16,13 +16,13 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h2 class="project-name">{{ page.title }}</h2>
+      <h2 class="project-name">{{ page.title | default: site.title }}</h2>
     </header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
       <br/>
-      <button ><a href="{{ site.github.repository_url }}">Public Records Portal Home</a></button>
+      <button ><a href="{{ site.baseurl }}/">Public Records Portal Home</a></button>
       <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner">The <a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> repository is maintained by <a href="{{ site.github.owner_url }}">Persius</a>.</span>

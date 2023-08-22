@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Persius Public Records Portal
+baseurl: /public-records/
 description: This site hosts public records obtained by Persius.
 show_downloads: false
