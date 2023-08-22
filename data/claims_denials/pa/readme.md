@@ -77,7 +77,9 @@ will furnish those records; we will update this repository accordingly at that t
 
 - Requested claims data from plan years 2013 to 2019 were unable to be furnished in response
 to the request. Pennsylvania utilized the federal marketplace at that time, so the records
-were unavailable to the agency reviewing the request.
+were unavailable to the agency reviewing the request. While Pennsylvania continued to use the federal
+marketplace until the end of 2020, plan year 2020 (federal) marketplace data pertaining to plans sold in PA 
+appears to have been reported to the Department of Insurance and released as part of this records request.
 
 - Requests for _all_ plan data, including non-marketplace plans, were not fully honored,
 as the department did not have access to all such data. The response to the records request
