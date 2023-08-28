@@ -97,7 +97,7 @@ responsible for any findings, manipulations or alterations of this data. In part
 formulations of this data that we may standardize or adapt from these raw pdfs to
 make them more user-friendly for consumption by automated processes is in no way vetted
 or validated by that department, or guaranteed to be consistent with the original data;
-any errors resulting from such processes are our own, and not those of the 
+any errors resulting from such processes are our own, and not those of the PA Department of Insurance.
 
 
 # Parsed Data
