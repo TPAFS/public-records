@@ -23,5 +23,5 @@ the status or outcome of the request.
 
 | Record Source | Date of Submission  | Status | Description |
 |:-------------|:------------------|:------    | :------    |
-| Centers for Medicare and Medicaid Services | 3/28/24 | [Submitted](#) | Complete technical documentation for the Medicare Appeals System (MAS). This is a collaboration with the [Data Liberation Project](https://www.data-liberation-project.org/). |
-| Centers for Medicare and Medicaid Services | 3/28/24 | [Submitted](#) | Case data for Level 2 Appeal outcomes for Medicare Parts A, B, C, and D dating back to 2015. This is a collaboration with the [Data Liberation Project](https://www.data-liberation-project.org/). |
+| Centers for Medicare and Medicaid Services | 3/28/24 | [Submitted](https://www.documentcloud.org/documents/24522699-2024-03-28-cms-mas-documentation-foia-request-gartnersinger-vine) | Complete technical documentation for the Medicare Appeals System (MAS). This is a collaboration with the [Data Liberation Project](https://www.data-liberation-project.org/). |
+| Centers for Medicare and Medicaid Services | 3/28/24 | [Submitted](https://www.documentcloud.org/documents/24522698-2024-03-28-cms-medicare-level-2-appeals-database-records-foia-request-gartnersinger-vine) | Case data for Level 2 Appeal outcomes for Medicare Parts A, B, C, and D dating back to 2015. This is a collaboration with the [Data Liberation Project](https://www.data-liberation-project.org/). |
